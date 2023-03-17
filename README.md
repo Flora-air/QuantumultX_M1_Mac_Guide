@@ -14,9 +14,11 @@ QuantumultX在Mac上怎么开启MitM（配置证书）
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/62434508/225945000-493ac4d5-3578-440e-b569-d75c5df01756.png">
 
 找到我们的证书-显示简介
+
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/62434508/225945240-0b6de6e5-d061-4f07-9807-5a5f4d3e3b2c.png">
 
 勾选始终信任
+
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/62434508/225945411-76927eb2-b769-4284-a106-73dbece2a12d.png">
 
 
